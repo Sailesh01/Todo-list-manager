@@ -9,27 +9,32 @@ To view the list of commands:
 ```
 todo.py help
 ```
+
 <br />
 To add new task:
 ```
 todo.py add "your task"
 ```
 <br />
-TO view the list of added tasks:
+
+To view the list of added tasks:
 ```
 todo.py ls
 ```
 <br />
+
 To complete a specific task:
 ```
 todo.py done NUMBER
 ```
 <br />
+
 To delete a task from the list:
 ```
 todo.py del NUMBER
 ```
 <br />
+
 To view the number of tasks completed and remaining:
 ```
 todo.py report
