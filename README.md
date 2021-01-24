@@ -9,8 +9,8 @@ To view the list of commands:
 ```
 todo.py help
 ```
-
 <br />
+
 To add new task:
 ```
 todo.py add "your task"
