@@ -5,6 +5,7 @@ To run the program in development, clone the project (or download its zip) and g
 todo.py
 ```
 <br />
+
 To view the list of commands:
 ```
 todo.py help
